@@ -1,7 +1,7 @@
 html, body { margin:0; font-family: 'Poppins', sans-serif; }
  div, input, textarea { box-sizing:border-box; -moz-box-sizing:border-box; -webkit-box-sizing:border-box;}
 
-.pre_top { background-color:#000080; padding: 30px;}
+.pre_top { background-color:#ff6f78; padding: 30px;}
 .top{ width: 1000px; margin:auto; }
 
 .main{ width: 1100px; margin:auto; }
@@ -164,7 +164,7 @@ line-height: 35px;
 font-size: 35px;
 letter-spacing: -1px;
 font-weight: 700;
-color:#000080;
+color:#ff6f78;
 padding: 10px;
  
 }
@@ -172,7 +172,7 @@ padding: 10px;
 font-size: 18px;
  
 font-weight: 300;
-color:#000080;
+color:#ff6f78;
 padding: 10px 10px 80px 10px;
  
 }
@@ -248,7 +248,7 @@ transition: all 0.3s ease;
   font-size: 11px;
  
   font-weight: 500;
-  color: #000080;
+  color: #ff6f78;
   padding: 10px 20px;
  
  
@@ -263,7 +263,7 @@ transition: all 0.3s ease;
   font-size: 11px;
  
   font-weight: 500;
-  color: #000080;
+  color: #ff6f78;
   padding: 10px 20px;
  
  
