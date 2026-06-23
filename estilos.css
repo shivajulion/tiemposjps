@@ -1,7 +1,7 @@
 html, body { margin:0; font-family: 'Poppins', sans-serif; }
  div, input, textarea { box-sizing:border-box; -moz-box-sizing:border-box; -webkit-box-sizing:border-box;}
 
-.pre_top { background-color:#c5221f; padding: 30px;}
+.pre_top { background-color:#c5221f; padding: 10px;}
 .top{ width: 1000px; margin:auto; }
 
 .main{ width: 1100px; margin:auto; }
