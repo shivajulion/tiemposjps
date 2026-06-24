@@ -315,5 +315,6 @@ a.b1a:hover{ text-decoration:underline; color:white }
 
 
 .ayer a{
-color: #c5221f;
+  color: #c5221f;
+  text-decoration: none;
 }
