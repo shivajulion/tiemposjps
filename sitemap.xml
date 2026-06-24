@@ -13,7 +13,13 @@
 
 <url>
   <loc>https://www.tiemposjps.com/</loc>
-  <lastmod>2026-06-24T01:43:20+00:00</lastmod>
+  <lastmod>2026-06-24T19:48:37+00:00</lastmod>
+  <priority>1.00</priority>
+</url>
+<url>
+  <loc>https://www.tiemposjps.com/ayer.html</loc>
+  <lastmod>2026-06-24T19:48:37+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 
 </urlset>
